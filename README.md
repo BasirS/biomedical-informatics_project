@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-The project explores healthcare data through time series analysis and statistical visualization using R. The focus is on emergency room admissions and critical care transfers, supplemented by broader global health indicators. This project demonstrates proficiency in leveraging PostgreSQL and Object-Oriented Programming (OOP) with R6 for modular and reusable code.
+This project explores healthcare data through time series analysis and statistical visualization using R. The focus is on emergency room admissions and critical care transfers, supplemented by broader global health indicators. The purpose is to demonstrate proficiency in leveraging PostgreSQL and Object-Oriented Programming (OOP) with R6 for modular and reusable code.
 
 ## Datasets Used
 
