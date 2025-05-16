@@ -11,7 +11,7 @@ This project analyzes healthcare data from the Horton General Hospital dataset t
 ├── final_visualizations/  # Generated plots and visualizations used in final report
 ├── functions/             # Helper functions
 ├── old_figures/           # Raw Rplots
-└── reports/               # Generated reports and documentation
+└── reports/               # Complete reports and documentation
 ```
 
 ## Data Sources
